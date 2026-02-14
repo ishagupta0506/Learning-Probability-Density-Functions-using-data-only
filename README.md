@@ -1,4 +1,4 @@
-# Assignment--2: Learning Probability Density Functions using data only
+# Assignment: Learning Probability Density Functions using data only
 
 ## Dataset
 
